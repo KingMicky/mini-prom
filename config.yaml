@@ -1,0 +1,3 @@
+targets:
+  - url: http://localhost:8081/metrics
+    interval: 5s
